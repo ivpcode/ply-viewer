@@ -1,5 +1,8 @@
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'
+import { FlyControls } from 'three/examples/jsm/controls/FlyControls'
+
+
 import { PLYLoader } from 'three/examples/jsm/loaders/PLYLoader'
 import Stats from 'three/examples/jsm/libs/stats.module'
 
