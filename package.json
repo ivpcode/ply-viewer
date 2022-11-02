@@ -1,0 +1,29 @@
+{
+  "name": "ply-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivpcode/ply-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivpcode/ply-viewer/issues"
+  },
+  "homepage": "https://github.com/ivpcode/ply-viewer#readme",
+  "dependencies": {
+    "three": "^0.146.0",
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "browserslist": [
+    "last 8 versions"
+  ],
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}
